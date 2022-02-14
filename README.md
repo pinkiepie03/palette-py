@@ -6,7 +6,7 @@ A simple tool to get color palettes from images
 The script only depends on [color-thief-py](https://github.com/fengsp/color-thief-py). To install it simply
 run
 
-> pip install colorthief
+    pip install colorthief
 
 ## Usage
 
@@ -17,7 +17,7 @@ palette-py is really simple tool, it has just a couple of options.
 
 **For example**,
 
-> python3 palette.py -i path/to/image.jpg -n 7
+    python3 palette.py -i path/to/image.jpg -n 7
 
 will extract a palette of seven colors from the image.jpg
 
