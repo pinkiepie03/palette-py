@@ -1,5 +1,3 @@
-#! /bin/python3
-
 # Try to import external library
 try:
     from colorthief import ColorThief
