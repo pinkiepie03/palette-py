@@ -17,7 +17,7 @@ palette-py is really simple tool, it has just a couple of options.
 
 **For example**,
 
-> ./palette.py -i path/to/image.jpg -n 7
+> python3 palette.py -i path/to/image.jpg -n 7
 
 will extract a palette of seven colors from the image.jpg
 
